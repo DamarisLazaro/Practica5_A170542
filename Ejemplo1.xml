@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/PC/Documents/9Semestre/Servicios%20Web/Practicas/Practica5_A170542/Ejemplo1.xsl"?>
+<autos>
+    <auto>
+      <nombre>Nissan GTR</nombre>
+      <aceleracion>0 a 100 km en 2.5s</aceleracion>
+      <motor>Twin-Turbo V6 3.8 Litros</motor>
+    </auto>
+    
+    <auto>
+      <nombre>Bugatti Veyron</nombre>
+      <aceleracion>0 a 100 km en 2.5s</aceleracion>
+      <motor>8 Litros W16</motor>
+    </auto>
+    
+     <auto>
+      <nombre>Lamborghini Aventador Coupe</nombre>
+      <aceleracion>0 a 100 km en 2.9s</aceleracion>
+      <motor>V12</motor>
+    </auto>
+    
+    <auto>
+      <nombre>Audi R8</nombre>
+      <aceleracion>0 a 100 km en 3.5s</aceleracion>
+      <motor>V10 de 5.2 Litros</motor>
+    </auto>
+</autos>
